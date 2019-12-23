@@ -1938,11 +1938,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit.Android\\First aid kit.Android.csproj",
+      "projectUniqueName": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.Android\\First aid kit.Android.csproj",
       "projectName": "First aid kit.Android",
-      "projectPath": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit.Android\\First aid kit.Android.csproj",
+      "projectPath": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.Android\\First aid kit.Android.csproj",
       "packagesPath": "C:\\Users\\Leonid\\.nuget\\packages\\",
-      "outputPath": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit.Android\\obj\\",
+      "outputPath": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1963,8 +1963,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj": {
-              "projectPath": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj"
+            "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj": {
+              "projectPath": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj"
             }
           }
         }

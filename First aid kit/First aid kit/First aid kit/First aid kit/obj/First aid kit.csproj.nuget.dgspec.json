@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj": {}
+    "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj": {}
   },
   "projects": {
-    "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj": {
+    "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj",
+        "projectUniqueName": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj",
         "projectName": "First aid kit",
-        "projectPath": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj",
+        "projectPath": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj",
         "packagesPath": "C:\\Users\\Leonid\\.nuget\\packages\\",
-        "outputPath": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\obj\\",
+        "outputPath": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

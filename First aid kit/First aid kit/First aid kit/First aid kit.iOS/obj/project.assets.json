@@ -1022,11 +1022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit.iOS\\First aid kit.iOS.csproj",
+      "projectUniqueName": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.iOS\\First aid kit.iOS.csproj",
       "projectName": "First aid kit.iOS",
-      "projectPath": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit.iOS\\First aid kit.iOS.csproj",
+      "projectPath": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.iOS\\First aid kit.iOS.csproj",
       "packagesPath": "C:\\Users\\Leonid\\.nuget\\packages\\",
-      "outputPath": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit.iOS\\obj\\",
+      "outputPath": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1047,8 +1047,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj": {
-              "projectPath": "D:\\MobileDev\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj"
+            "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj": {
+              "projectPath": "D:\\MobileDev\\FirstAidKit\\First aid kit\\First aid kit\\First aid kit\\First aid kit\\First aid kit.csproj"
             }
           }
         }

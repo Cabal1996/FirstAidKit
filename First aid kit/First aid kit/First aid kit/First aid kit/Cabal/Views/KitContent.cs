@@ -35,7 +35,8 @@ namespace First_aid_kit.Cabal.Views
 
             CollectionView drugCollection = new CollectionView
             {
-                ItemTemplate = new NotesTemplate()
+                ItemTemplate = new NotesTemplate(),
+                SelectionMode = SelectionMode.Single
             };
             drugCollection.SetBinding(CollectionView.ItemsSourceProperty, nameof(AppViewModel.DrugCollection));
             drugCollection.SetBinding(CollectionView.SelectedItemProperty, nameof(AppViewModel.SelectedDrug));

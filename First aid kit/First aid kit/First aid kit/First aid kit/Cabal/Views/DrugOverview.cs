@@ -1,4 +1,5 @@
-﻿using System;
+﻿using First_aid_kit.Cabal.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
@@ -7,20 +8,15 @@ namespace First_aid_kit.Cabal.Views
 {
     public class DrugOverview : ContentPage
     {
-        public Label Name;
-        public Label BestBefour;
-
-        public DrugOverview()
+        public DrugOverview(AppViewModel ViewModel)
         {
-            Name = new Label()
-            {
-                //Text options goes here
-            };
+            BindingContext = ViewModel;
 
-            BestBefour = new Label()
-            {
-                //Text options goes here
-            };
+            Label Name = new Label();
+            Name.SetBinding(Label.TextProperty, nameof(AppViewModel.SelectedDrugName));
+
+            Label BestBefour = new Label();
+            BestBefour.SetBinding(Label.TextProperty, nameof(AppViewModel.SelectedDrugBestBefour));
 
             var grid = new Grid
             {

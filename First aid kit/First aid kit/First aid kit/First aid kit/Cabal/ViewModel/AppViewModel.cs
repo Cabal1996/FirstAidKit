@@ -45,18 +45,11 @@ namespace First_aid_kit.Cabal.ViewModel
             {
                 if (SelectedDrug is null)
                     return;
-                var drugOverviev = new DrugOverview
-                {
-                    Name = new Label
-                    {
-                        Text = SelectedDrug.Name
-                    },
+                SelectedDrugName = SelectedDrug.Name;
+                SelectedDrugBestBefour = SelectedDrug.bestBefour.ToString();
 
-                    BestBefour = new Label
-                    {
-                        Text = SelectedDrug.bestBefour.ToString()
-                    }
-                };
+                var drugOverviev = new DrugOverview(this);
+                
 
                 await Application.Current.MainPage.Navigation.PushAsync(drugOverviev);
 
@@ -100,10 +93,21 @@ namespace First_aid_kit.Cabal.ViewModel
             set
             {
                 selectedDrug = value;
-                //PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(BestBefour)));
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(SelectedDrug)));
             }
         }
 
+        public string SelectedDrugName
+        {
+            get;
+            set;
+        }
+
+        public string SelectedDrugBestBefour
+        {
+            get;
+            set;
+        }
 
         public ObservableCollection<DrugModel> DrugCollection { get; }
 

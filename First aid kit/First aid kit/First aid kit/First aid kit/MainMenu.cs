@@ -1,4 +1,5 @@
-﻿using System;
+﻿using First_aid_kit.Cabal.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using Xamarin.Forms;
@@ -7,11 +8,12 @@ namespace First_aid_kit
 {
     public class MainMenu : ContentPage
     {
-
         Button myKit, prescriptions, doctors, features, medicationSchedule, notifications, pharmacies, medicationPuerchase, archive;
 
         public MainMenu()
         {
+            BindingContext = new AppViewModel();
+
             BackgroundColor = Color.White;
 
             myKit = new Button
@@ -22,6 +24,8 @@ namespace First_aid_kit
                 CornerRadius = 6,
                 Margin = new Thickness(6)
             };
+
+            myKit.SetBinding(Button.CommandProperty, nameof(AppViewModel.myKitCommand));
 
             prescriptions = new Button
             {

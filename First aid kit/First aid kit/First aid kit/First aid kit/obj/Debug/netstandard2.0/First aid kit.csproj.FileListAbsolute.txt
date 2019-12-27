@@ -11,3 +11,16 @@ D:\MobileDev\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\n
 D:\MobileDev\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\First aid kit.dll
 D:\MobileDev\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\ref\First aid kit.dll
 D:\MobileDev\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\First aid kit.pdb
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\bin\Debug\netstandard2.0\First aid kit.deps.json
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\bin\Debug\netstandard2.0\First aid kit.dll
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\bin\Debug\netstandard2.0\ref\First aid kit.dll
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\bin\Debug\netstandard2.0\First aid kit.pdb
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\First aid kit.AssemblyInfoInputs.cache
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\First aid kit.AssemblyInfo.cs
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\First aid kit.dll
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\ref\First aid kit.dll
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\First aid kit.pdb
+D:\MobileDev\FirstAidKit\First aid kit\First aid kit\First aid kit\First aid kit\obj\Debug\netstandard2.0\First aid kit.csprojAssemblyReference.cache
